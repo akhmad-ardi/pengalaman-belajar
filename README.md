@@ -4,3 +4,8 @@ Pengalaman Belajar di Dicoding
 Belajar kelas Memulai Belajar dasar dengan Git dengan Github. (Progres 21%)
 * Belajar tentang apa itu Git dan alasan menggunakannya.
 * Belajar meggunakan Github.
+
+16 September 2024
+Belajar kelas Memulai Belajar dasar dengan Git dengan Github. (Progres 54%)
+* Belajar dasar-dasar Git
+* Bealjar perintah Git
